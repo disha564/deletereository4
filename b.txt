@@ -1,1 +1,2 @@
 This b.txt file
+This is a new line in b.txt
